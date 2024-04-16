@@ -12,8 +12,11 @@ This repository contains the branding (logos, promotional materials) for the UNL
 |  Red  | ![#d00000](https://placehold.it/15/d00000/000000?text=) | `#d00000` |
 
 ## Main Logo
-### Normal style
+### Normal
 <img width="300" src="main-logo.svg">
 
-### Circular style
+### Circular
 <img width="300" src="main-logo-circular.svg">
+
+### Small
+<img width="150" src="main-small.svg">
