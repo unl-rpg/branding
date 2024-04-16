@@ -10,8 +10,8 @@
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="main-small.svg"
    inkscape:export-filename="main-small.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#4b4b4b"
      inkscape:document-units="mm"
-     inkscape:zoom="5.021726"
-     inkscape:cx="31.861555"
-     inkscape:cy="31.861555"
+     inkscape:zoom="5.530879"
+     inkscape:cx="23.414"
+     inkscape:cy="35.979814"
      inkscape:window-width="1463"
      inkscape:window-height="824"
      inkscape:window-x="0"
@@ -51,7 +51,7 @@
     <path
        id="rect12-6-1-2"
        style="display:inline;fill:#d00000;fill-opacity:1;stroke-width:0.868343;stroke-linejoin:round"
-       d="m 11.393996,12.729036 c 0,0 -0.572965,-0.839477 -1.358965,-0.839475 l -1.9435764,-2e-6 c 0,0 -0.1056262,-5.41e-4 -0.2012231,-0.166117 0,0 -0.2845847,-0.586794 -2.1823736,-0.589635 l 0.4698815,0.663546 c -0.4697371,0.06116 -1.2886971,0.586179 -1.2886971,0.586179 l -9.266e-4,0.671592 c 0,0 0.8174056,0.527499 1.2869501,0.590048 l -0.4718602,0.662173 c 1.8977703,0.0029 2.1840956,-0.583123 2.1840956,-0.583123 0.095699,-0.165752 0.2041526,-0.165711 0.2041526,-0.165711 l 1.9435752,1e-6 c 0.781857,-1e-6 1.35901,-0.829411 1.35901,-0.829411 z"
+       d="m 12.903916,12.972483 c 0,0 -0.572965,-0.839477 -1.358965,-0.839475 l -1.9435757,-2e-6 c 0,0 -0.105626,-5.41e-4 -0.2012231,-0.166117 0,0 -0.2845847,-0.586794 -2.1823736,-0.589635 L 7.6876601,12.0408 C 7.217923,12.10196 6.398963,12.626979 6.398963,12.626979 l -9.266e-4,0.671592 c 0,0 0.8174056,0.527499 1.2869501,0.590048 l -0.4718602,0.662173 c 1.8977703,0.0029 2.1840956,-0.583123 2.1840956,-0.583123 0.095699,-0.165752 0.2041524,-0.165711 0.2041524,-0.165711 l 1.9435747,10e-7 c 0.781857,-10e-7 1.35901,-0.829411 1.35901,-0.829411 z"
        inkscape:label="Rocket"
        sodipodi:nodetypes="csccccccccccscc" />
     <path
