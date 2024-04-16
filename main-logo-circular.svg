@@ -26,11 +26,11 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#434343"
      inkscape:document-units="mm"
-     inkscape:zoom="0.62808339"
-     inkscape:cx="730.79468"
-     inkscape:cy="210.16318"
-     inkscape:window-width="2560"
-     inkscape:window-height="1354"
+     inkscape:zoom="1.8629861"
+     inkscape:cx="675.52839"
+     inkscape:cy="714.4444"
+     inkscape:window-width="1463"
+     inkscape:window-height="824"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,13 +69,17 @@
          transform="rotate(45.085173)"
          inkscape:label="Circle" />
       <path
-         id="rect12-6-1"
+         id="rect12-6-1-3"
          style="display:inline;fill:#d00000;fill-opacity:1;stroke-width:6.39083;stroke-linejoin:round"
-         d="m 188.34384,201.10251 c 0,0 -7.37325,-1.26085 -11.39304,2.89911 l -9.93994,10.28648 c 0,0 -0.54307,0.55625 -1.9083,0.21542 0,0 -4.56108,-1.49482 -14.2818,8.53492 l 5.91494,0.90667 c -2.07864,2.79892 -3.15322,10.04177 -3.15322,10.04177 l 3.02829,2.91845 c 0,0 7.15842,-1.33054 9.89082,-3.49573 l 1.09126,5.88367 c 9.72075,-10.02973 8.08393,-14.54182 8.08393,-14.54182 -0.38783,-1.35419 0.16704,-1.92798 0.16704,-1.92798 l 9.93994,-10.28647 c 3.99861,-4.13803 2.56062,-11.43445 2.56062,-11.43445 z"
+         d="m 188.73052,201.64734 c 0,0 -7.35058,-1.38697 -11.44105,2.70351 l -10.1147,10.11469 c 0,0 -0.55253,0.54687 -1.91171,0.1827 0,0 -4.5348,-1.57274 -14.42591,8.28901 l 5.89855,1.00786 c -2.1263,2.7629 -3.65603,9.75716 -3.65603,9.75716 l 3.49012,3.50002 c 0,0 6.99912,-1.50871 9.76822,-3.62679 l 0.9903,5.9015 c 9.89115,-9.86173 8.33186,-14.4012 8.33186,-14.4012 -0.36457,-1.36063 0.20006,-1.92483 0.20006,-1.92483 l 10.11469,-10.11467 c 4.06891,-4.06892 2.75613,-11.38891 2.75613,-11.38891 z"
          inkscape:label="Rocket"
-         sodipodi:nodetypes="csccccccccccscc"
-         inkscape:transform-center-x="-14.378904"
-         inkscape:transform-center-y="-14.887821" />
+         sodipodi:nodetypes="csccccccccccscc" />
+      <path
+         style="fill:#d00000;stroke-width:0.264583"
+         d="m 151.56745,235.16695 c 1.45313,-0.85133 1.51222,-1.46468 1.51222,-1.46468 l 3.49012,3.50002 c 0,0 -0.74267,0.15471 -3.1352,1.6372 z"
+         id="path1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="End Cap" />
     </g>
     <path
        id="path1-3-2"
