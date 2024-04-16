@@ -4,12 +4,12 @@ This repository contains the branding (logos, promotional materials) for the UNL
 
 ## Colors
 
-| Color | Hex Code  |
-|-------|-----------|
-| White | `#ededed` |
-| Black | `#000000` |
-|  Grey | `#434343` |
-|  Red  | `#d00000` |
+| Color |                                                         | Hex Code  |
+|-------|---------------------------------------------------------|-----------|
+| White | ![#ededed](https://placehold.it/15/ededed/000000?text=) | `#ededed` |
+| Black | ![#000000](https://placehold.it/15/000000/000000?text=) | `#000000` |
+|  Grey | ![#434343](https://placehold.it/15/434343/000000?text=) | `#434343` |
+|  Red  | ![#d00000](https://placehold.it/15/d00000/000000?text=) | `#d00000` |
 
 ## Main Logo
 ### Normal style
