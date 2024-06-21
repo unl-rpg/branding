@@ -20,3 +20,7 @@ This repository contains the branding (logos, promotional materials) for the UNL
 
 ### Small
 <img width="150" src="main-small.svg">
+
+## Old Logo
+### Square
+<img width="300" src="old-logo.svg">
