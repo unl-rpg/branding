@@ -4,12 +4,13 @@ This repository contains the branding (logos, promotional materials) for the UNL
 
 ## Colors
 
-| Color |                                                           | Hex Code    |
-|-------|-----------------------------------------------------------|-------------|
-| White | ![#ededed](https://placehold.it/15/ededed/000000?text=) | `#ededed` |
-| Black | ![#000000](https://placehold.it/15/000000/000000?text=) | `#000000` |
-|  Grey | ![#434343](https://placehold.it/15/434343/000000?text=) | `#434343` |
-|  Red  | ![#d00000](https://placehold.it/15/d00000/000000?text=) | `#d00000` |
+|   Color   |                                                         | Hex Code  |
+|-----------|---------------------------------------------------------|-----------|
+| Off-white | ![#ededed](https://placehold.it/15/ededed/000000?text=) | `#ededed` |
+| Black     | ![#000000](https://placehold.it/15/000000/000000?text=) | `#000000` |
+|  Grey     | ![#434343](https://placehold.it/15/434343/000000?text=) | `#434343` |
+|  Red      | ![#d00000](https://placehold.it/15/d00000/000000?text=) | `#d00000` |
+|  Blue     | ![#1f3763](https://placehold.it/15/1f3763/000000?text=) | `#1f3763` |
 
 ## Typography
 The fonts used in the logos are [Red Hat Text](https://fonts.google.com/specimen/Red+Hat+Text) and [Radio Canada](https://fonts.google.com/specimen/Radio+Canada).
